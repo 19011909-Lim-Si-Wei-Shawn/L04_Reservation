@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">L04-Reservation</string>
+    <string name="Name">Name:</string>
+    <string name="HintName">Input Name</string>
+    <string name="Mobile">Mobile No:</string>
+    <string name="HintMobile">Input Mobile Number</string>
+    <string name="GSize">Group Size:</string>
+    <string name="HintGSize">Input Group Size</string>
+    <string name="RoomType">Require Smoking Room</string>
+    <string name="Confirm">Confirm</string>
+    <string name="Reset">Reset</string>
+
+</resources>
